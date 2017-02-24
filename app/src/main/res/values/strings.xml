@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Guardian Lock</string>
+    <string name="app_desc">Allow random passcode change</string>
+</resources>
